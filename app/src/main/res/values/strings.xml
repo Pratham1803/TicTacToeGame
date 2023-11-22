@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Tic Tac Toe Game</string>
+    <string name="lblHeading">Welcome to TicTacToe game</string>
+    <string name="lblBottom">Developed By Pratham Rathod</string>
+</resources>
